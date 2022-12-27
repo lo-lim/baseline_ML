@@ -1,1 +1,2 @@
-# basic_ML
+# baseline_ML
+## My First Study of Machine Learning
